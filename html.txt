@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budget Income Tax 2025 Summary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Budget Income Tax 2025 Summary</h1>
+        
+        <div class="section">
+            <h2>1. Personal Income-Tax Reforms</h2>
+            <p>New tax regime introduces revised tax slabs with nil tax up to ₹4,00,000 and a maximum 30% tax above ₹24,00,000. Individuals earning up to ₹12,00,000 get full rebate.</p>
+        </div>
+        
+        <div class="section">
+            <h2>2. Rationalization of TDS and TCS</h2>
+            <p>Reduced rates for various TDS/TCS categories, with increased thresholds for tax deduction.</p>
+        </div>
+        
+        <div class="section">
+            <h2>3. Encouraging Voluntary Compliance</h2>
+            <p>Updated return filing extended to 48 months, new tax rules for crypto-assets, and tax relief for self-occupied properties.</p>
+        </div>
+
+        <div class="section">
+            <h2>4. Reducing Compliance Burden</h2>
+            <p>Removal of TCS on high-value goods and streamlining of tax filing requirements.</p>
+        </div>
+        
+        <div class="section">
+            <h2>5. Ease of Doing Business</h2>
+            <p>Startups get extended tax benefits till 2030, and long-term capital gains tax parity introduced.</p>
+        </div>
+        
+        <div class="section">
+            <h2>6. Employment and Investment Incentives</h2>
+            <p>IFSC tax benefits extended, presumptive taxation for electronic manufacturers, and tax benefits for NPS contributions.</p>
+        </div>
+        
+        <div class="section">
+            <h2>7. Miscellaneous Amendments</h2>
+            <p>Tax exemptions for NSS withdrawals, increased perquisite limits, and rationalization of tax provisions.</p>
+        </div>
+    </div>
+</body>
+</html>
